@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 地图外框 -->
+    <path
+        android:fillColor="@android:color/black"
+        android:pathData="M20.5,3l-0.16,0.03L15,5.1 9,3 3.36,4.9c-0.21,0.07 -0.36,0.25 -0.36,0.48V20.5c0,0.28 0.22,0.5 0.5,0.5l0.16,-0.03L9,18.9l6,2.1 5.64,-1.9c0.21,-0.07 0.36,-0.25 0.36,-0.48V3.5c0,-0.28 -0.22,-0.5 -0.5,-0.5z"/>
+    <!-- 地图折痕 -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M9,5v13.9l6,-2.11V4.89L9,5z"/>
+    <!-- 地图细节线条 -->
+    <path
+        android:fillColor="@android:color/black"
+        android:pathData="M11,8h2v1h-2V8z"/>
+    <path
+        android:fillColor="@android:color/black"
+        android:pathData="M11,10h2v1h-2V10z"/>
+    <path
+        android:fillColor="@android:color/black"
+        android:pathData="M11,12h2v1h-2V12z"/>
+</vector>
